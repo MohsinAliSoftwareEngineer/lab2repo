@@ -1,0 +1,63 @@
+body {
+    background-image: url("lo.jpg");
+    
+   
+}
+.container{
+     background-image:url("gg.jpg");
+    text-align: center;
+    height: 700px;
+    width: 500px;
+    margin-left: 700px;
+    padding-top: 100px;
+    
+
+     
+    
+
+}
+.main{
+color: brown;
+}
+#fname, #lname, #email, #username, #password {
+    border:none;
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    box-sizing: border-box;
+    width: 50%;
+    margin-top: 3px;
+    border-radius: 4px; 
+    font-family: Verdana;
+    height: 40px;
+    cursor: pointer;
+    background-color: purple;
+    color: white;
+  
+   
+      
+}
+#button {
+    background-color: lightblue;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-top: 310px;
+    margin-left: 320px;
+}
+#button:hover {
+    background-color: lightgreen;
+}
+#label {
+    margin-right: 160px;
+    font-size: 20px;
+    color: orangered;
+
+
+}
+
